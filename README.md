@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inkwell — Blog Platform with Comments
 
 A full-stack blogging platform where users can register, write posts, and engage through comments. Built with a dark glassmorphism aesthetic.
@@ -162,3 +163,6 @@ CREATE TABLE comments (
 ## License
 
 MIT
+=======
+# Blog-Platform
+>>>>>>> 487bd5014d6a22982511702e92325c70a2c0f3d4
